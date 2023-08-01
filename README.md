@@ -1,6 +1,22 @@
-![FT_IRC Logo](https://your_project_logo_url_here.png)
-
-# FT_IRC - 42 School Project
+```bash
+IIIIIIIIII  RRRRRRRRRRRRRRRRR            CCCCCCCCCCCCC
+I::::::::I  R::::::::::::::::R        CCC::::::::::::C
+I::::::::I  R::::::RRRRRR:::::R     CC:::::::::::::::C
+II::::::II  RR:::::R     R:::::R   C:::::CCCCCCCC::::C
+  I::::I      R::::R     R:::::R  C:::::C       CCCCCC
+  I::::I      R::::R     R:::::R C:::::C
+  I::::I      R::::RRRRRR:::::R  C:::::C
+  I::::I      R:::::::::::::RR   C:::::C
+  I::::I      R::::RRRRRR:::::R  C:::::C
+  I::::I      R::::R     R:::::R C:::::C
+  I::::I      R::::R     R:::::R C:::::C
+  I::::I      R::::R     R:::::R  C:::::C       CCCCCC
+II::::::II  RR:::::R     R:::::R   C:::::CCCCCCCC::::C
+I::::::::I  R::::::R     R:::::R    CC:::::::::::::::C
+I::::::::I  R::::::R     R:::::R      CCC::::::::::::C
+IIIIIIIIII  RRRRRRRR     RRRRRRR         CCCCCCCCCCCCC
+```
+# FT_IRC - 42 Project
 
 ## Table of Contents
 
