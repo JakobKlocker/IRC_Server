@@ -28,7 +28,7 @@ IIIIIIIIII  RRRRRRRR     RRRRRRR         CCCCCCCCCCCCC
 
 ## Introduction
 
-FT_IRC is a collaborative project developed as part of the curriculum at 42, a coding school. This project aims to create a simple Internet Relay Chat (IRC) server implementation. IRC is a widely used protocol for real-time text-based communication, allowing users to participate in group discussions or private conversations over the internet.
+FT_IRC is a collaborative project developed as part of the curriculum at 42, a coding school. This project aims to create a simple Internet Relay Chat (IRC) server implementation. IRC is a widely used protocol for real-time text-based communication, allowing users to participate in group discussions or private conversations over the internet. C++ 98 had to be used for this project.
 
 ## Features
 
@@ -77,3 +77,4 @@ Start the server:
 Now you can connect to the server with a Client of your choice.
 
 Colaboration with https://github.com/jrainpre
+https://github.com/jrainpre/ft_irc-IRC_ChatServer for original commits
